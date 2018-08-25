@@ -6,9 +6,9 @@
 .. index::
    single: Home
 
-========================
-Odoo Online Book - V11.0
-========================
+=====================
+Odoo 11.0 Online Book
+=====================
 This book is dedicated for entrepreneur who wants to implement all-in-one
 business application out-of-the box for their business.
 
