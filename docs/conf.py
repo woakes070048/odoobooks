@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Odoo Online Book - V11.0'
+project = u'Odoo Online Book'
 copyright = u'Mantavya Gajjar'
 author = u'Mantavya Gajjar'
 
