@@ -156,8 +156,10 @@ Video
 
 This section gives you a link on the PDF or embedded videos on the
 online book, that shows you the detailed configuration steps and the
-steps to execute the business case. You can get access to all the videos
-used in this book at `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_.
+steps to execute the business case.
+
+.. tip:: You can get access to all the videos used in this book
+  at `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_.
 
 See also
 --------
