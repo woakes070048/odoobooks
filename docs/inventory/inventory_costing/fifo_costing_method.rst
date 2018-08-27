@@ -37,6 +37,8 @@ Access the video at https://www.youtube.com/watch?v=a8UXCiETC38
         <iframe src="https://www.youtube.com/embed/a8UXCiETC38" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
+See Also
+--------
 .. seealso::
 
     * :doc:`standard_costing`

@@ -72,6 +72,8 @@ Access the video at https://www.youtube.com/watch?v=aHa8jjJsEKA
         <iframe src="https://www.youtube.com/embed/aHa8jjJsEKA" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
+See Also
+--------
 .. seealso::
 
     * :doc:`../inventory_costing/standard_costing`

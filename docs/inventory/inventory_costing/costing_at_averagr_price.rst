@@ -43,6 +43,8 @@ Access the video at https://www.youtube.com/watch?v=QjdRX6El-4M
         <iframe src="https://www.youtube.com/embed/QjdRX6El-4M" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
+See Also
+--------
 .. seealso::
 
     * :doc:`standard_costing`

@@ -39,6 +39,8 @@ Access the video at https://www.youtube.com/watch?v=TEHOwOjrRWM
         <iframe src="https://www.youtube.com/embed/TEHOwOjrRWM" frameborder="0" allowfullscreen style="position: absolute; top: 0; left: 0; width: 700px; height: 385px;"></iframe>
     </div>
 
+See Also
+--------
 .. seealso::
 
     * :doc:`costing_at_averagr_price`
