@@ -64,7 +64,7 @@ Updates
 =======
 
 You can subscribe to `Youtube <https://www.youtube.com/c/MantavyaGajjar>`_
-channel to get the instance updates about a new pages arrived to the book.
+channel to receive an instance update about the new videos and pages on this book.
 
 You can follow `Twitter <https://www.twitter.com/mantavyagajjar>`_ channel
 to get the updates about the book.
