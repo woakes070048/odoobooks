@@ -173,7 +173,7 @@ html_show_copyright = True
 htmlhelp_basename = 'OdooBook'
 
 pdf_master_doc = 'index'
-latex_logo = 'images/odoo_logo.png'
+# latex_logo = 'images/odoo_logo.png'
 latex_documents = [
     (pdf_master_doc, 'OdooBook.tex', project, copyright, 'manual'),
 ]
