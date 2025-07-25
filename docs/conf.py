@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Odoo Best Practices'
+project = u'Odoo Best Practice: A Step-by-Step Guide for Over 40 Industries'
 copyright = u'Mantavya Gajjar'
 author = u'Mantavya Gajjar'
 
