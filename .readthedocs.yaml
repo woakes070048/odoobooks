@@ -5,11 +5,9 @@ build:
   tools:
     python: "3.12"             # interpreter used inside the build
 
-mkdocs:
-  configuration: mkdocs.yml   # MkDocs’ own config file
-
 sphinx:
   configuration: docs/conf.py  # path to conf.py (adjust if different)
+  theme: jekyll-theme-cayman
 
 # optional – install Python deps your docs need
 python:
