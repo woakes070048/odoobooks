@@ -1,1 +1,2 @@
 sphinx-sitemap
+sphinx_rtd_theme
