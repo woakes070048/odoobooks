@@ -1,0 +1,14 @@
+# .readthedocs.yaml
+version: 2                     # required – use the current spec
+build:
+  os: ubuntu-22.04             # build image
+  tools:
+    python: "3.12"             # interpreter used inside the build
+
+sphinx:
+  configuration: docs/conf.py  # path to conf.py (adjust if different)
+
+# optional – install Python deps your docs need
+python:
+  install:
+    - requirements: docs/requirements.txt
