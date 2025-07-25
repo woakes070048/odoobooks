@@ -11,4 +11,4 @@ sphinx:
 # optional – install Python deps your docs need
 python:
   install:
-    - requirements: docs/requirements.txt
+    - requirements: requirements.txt
