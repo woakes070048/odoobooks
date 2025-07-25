@@ -36,6 +36,4 @@ The journey to a perfectly fitted ERP does not have to be one of trial and error
    :maxdepth: 2
    :caption: Table of Contents
 
-   about
-   books/implement_bakery
-   books/implement_srvice_company
+   toc

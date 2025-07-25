@@ -10,9 +10,9 @@
    single: About Author
    single: About Reviewer
 
-===============================================================
-Odoo Best Practice: A Step-by-Step Guide for Over 40 Industries
-===============================================================
+=============== 
+About the Book
+===============
 
 .. image:: ./images/odoo-19-book-title.png
    :height: 300px
