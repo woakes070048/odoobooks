@@ -4,7 +4,6 @@ build:
   os: ubuntu-22.04             # build image
   tools:
     python: "3.12"             # interpreter used inside the build
-  theme: sphinx_rtd_theme
 
 sphinx:
   configuration: docs/conf.py  # path to conf.py (adjust if different)
